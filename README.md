@@ -1,2 +1,1 @@
-# ping-pong
-ping-pong game on c++ with raylib
+Ping-pong game on C++ | To open the game, run the "ping-pong game.exe" | | Чтобы открыть игру, запустите "ping-pong game.exe" |
